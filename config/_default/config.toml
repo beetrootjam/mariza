@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://marizakaras.co.uk"
+baseurl      = "https://marizakaras.netlify.app"
 languageCode = "en-gb"
 title        = "Mariza Karas"
 
