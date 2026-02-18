@@ -1,8 +1,10 @@
----
-menu:
-    main:
-        name: Home
-        weight: 1
-        params:
-            icon: home
----
++++
+[menu]
+
+    [menu.main]
+    name = 'Home'
+    weight = 1
+
+    [menu.main.params]
+    icon = 'home'
++++
