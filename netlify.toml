@@ -4,3 +4,6 @@
 
 [context.production.environment]
   HUGO_VERSION = "0.155.3"
+
+[functions]
+  directory = "netlify/functions"

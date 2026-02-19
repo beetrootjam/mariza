@@ -29,9 +29,9 @@ SortBy              = "default"
     headingAnchor = false
     math          = false
     readingtime   = false
-    #[article.license]
-    #   enabled = true
-    #   default = "Licensed under CC BY-NC-SA 4.0"
+    [article.license]
+       enabled = true
+       default = "Licensed under CC BY-NC-SA 4.0"
 
 [widgets]
     homepage = [
@@ -51,9 +51,9 @@ SortBy              = "default"
     default = "auto"
 
 ## Comments
-[comments]
-    enabled  = true
-    provider = "disqus"
+##[comments]
+    ##enabled  = true
+    ##provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
