@@ -1,2 +1,1 @@
- [remote rejected] main -> main (refusing to allow an OAuth App to create or update workflow `.github/wo
-3. **Remove all dotfiles and non-dotfiles in the current directory**:                                     │rkflows/deploy.yml`
+[1;31mE: [0mSub-process /usr/bin/dpkg returned an error code (1)[0m
